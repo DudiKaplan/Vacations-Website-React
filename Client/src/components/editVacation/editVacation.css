@@ -1,0 +1,14 @@
+
+.justify-content-md-center .form{
+    color: white;
+    background-color: lightblue;
+    padding: 25px;
+    border-radius: 7px;
+}
+.justify-content-md-center .error{
+    color: red;
+    margin-left: 10px;
+}
+textarea , input[type=file]{
+    border-radius: 5px;
+}

@@ -1,0 +1,10 @@
+.delete-vacation{
+    height: 15px;
+    width: 15px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    background-image: url("../../assets/images/x-icon.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+

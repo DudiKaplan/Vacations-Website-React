@@ -1,0 +1,5 @@
+html, body, #root {
+  background-image: url("../src//assets/images/music-birds.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

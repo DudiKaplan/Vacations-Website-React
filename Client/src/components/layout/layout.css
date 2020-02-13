@@ -1,0 +1,23 @@
+
+.layout header{
+    height: 15vh;
+    border-bottom: 2px solid lightgray;
+}
+.layout main{
+    height:75vh;
+    overflow: auto;
+    padding: 2%;
+    border-radius: 7px;
+    
+}
+.layout aside{
+    height: 75vh;
+    border: 2px solid lightgray;
+    background-color: white;
+    border-radius: 7px;
+}
+.layout footer{
+    height:  10vh;
+    background-color: blue;
+    border-radius: 7px;
+}

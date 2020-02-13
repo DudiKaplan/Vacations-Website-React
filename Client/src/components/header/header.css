@@ -1,0 +1,46 @@
+.header{
+    height: 100%;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 40px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    color:white;
+    text-shadow: 5px 2px cadetblue;
+    text-align: center;
+    
+}
+
+.header .user-details{
+    color: white;
+    position: relative;
+    top: 70%;
+    transform: translateY(-90%)
+}
+
+.header .logout{
+    color: white;
+    position: relative;
+    top: 70%;
+    transform: translateY(-90%);
+}
+
+.header .logout:hover{
+    color: purple;
+}
+
+@media only screen and (max-width: 576px) {
+    .header h1{
+        margin: 0;
+        font-size: 17px;
+        position: relative;
+        top: 50%;
+        transform: translateY(-50%);
+        color:white;
+        text-shadow: 2px 2px cadetblue;
+        text-align: center;
+    }
+  }

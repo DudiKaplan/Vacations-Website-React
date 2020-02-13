@@ -1,0 +1,10 @@
+.justify-content-md-center .login{
+    color: white;
+    background-color: lightskyblue;
+    padding: 25px;
+    border-radius: 7px;
+}
+
+.justify-content-md-center .incorrect-login{
+    color: red;
+}

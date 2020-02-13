@@ -1,0 +1,15 @@
+.menu > a {
+    font-size: large;
+    font-family: Arial;
+    margin: 30px;
+    display: block;
+}
+
+@media only screen and (max-width: 576px) {
+    .menu > a {
+        font-size: 10px;
+        font-family: Arial;
+        margin: 2px;
+        display: block;
+    }
+  }
